@@ -1,0 +1,43 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.burgerPix {
+  height: 250px;
+  width: 250px;
+  padding-left: auto;
+  padding-right: auto;
+  padding-bottom: 30px;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px
+}
+
+.container {
+  background-color: rgb(243, 238, 162);
+  padding-top: 50px;
+}
+
+#panel {
+  padding-top: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
