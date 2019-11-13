@@ -22,4 +22,6 @@ A food app that inputs the names of burgers the user likes to eat, and then clic
 * CSS
 * HTML
 
+The app can be accessed on Heroku:
 
+https://quiet-scrubland-49566.herokuapp.com/
